@@ -1,6 +1,6 @@
 /* A sample class that implements the given interfaces.
  */
-//hi_123
+//hi_456
 public class Horse implements Drivable, Domesticatable, Tradable {
     private int maxSpeed;
 
