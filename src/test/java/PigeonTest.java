@@ -23,8 +23,5 @@ public class PigeonTest {
         assertEquals(2, p.getPrice());
     }
 
-    @Test(timeout = 50)
-    public void TestGetWeight() {
-        assertEquals(0.5, p.getWeight());
-    }
+
 }
