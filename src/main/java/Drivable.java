@@ -4,6 +4,7 @@ interface Drivable {
      **/
     void upgradeSpeed();
 
+
     /**
      * Decrease the maximum speed of this Vehicle.
      **/
