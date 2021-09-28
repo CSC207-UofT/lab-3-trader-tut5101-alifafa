@@ -101,9 +101,6 @@ public class Trader {
                 // TODO: Add Tradable objects here!
                 //James' code
                 new Car()  
-                //Grace's code
-                new Pigeon(0.5),
-                new Pigeon(0.7)
         );
 
         /* Below, we've created two Traders. Their money, inventory, and
